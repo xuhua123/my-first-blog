@@ -1,8 +1,0 @@
-superuser: admin001
-email: admin001@qq.com
-pswd: gogogo111
-
-
-Git
-user: Mygit
-email: mygit@qq.com
